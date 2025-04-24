@@ -14,7 +14,7 @@ A modern React application that generates platform-specific captions using Googl
 
 ## Live Demo
 
-[View the live demo on Netlify](https://your-netlify-link-here.netlify.app/)
+https://captiongeneratorrr.netlify.app/
 
 ## Technologies Used
 
@@ -27,7 +27,7 @@ A modern React application that generates platform-specific captions using Googl
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/platform-caption-generator.git
+   git clone https://github.com/shantanu-nichante/Caption-generator
    cd platform-caption-generator
    ```
 
